@@ -8,6 +8,7 @@ The objective was to practice normalization and visualization using Power BI.
 I transformed a raw sales dataset into a Star Schema design. On top of that, I built interactive dashboards and created DAX measures to answer key business questions which i generated using Chatgpt.
 
 Steps Taken
+
 1.Normalization
 
 Normalized tables by separating entities (e.g., Products, Customers, Territories, Status).
